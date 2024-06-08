@@ -6,8 +6,10 @@ https://replit.com/@SIN-Chun-Hung/URL-Shortener-Microservice
 
 Owner information.
 
-SIN,Chun Hung SIMON.
+SIN,Chun Hung SIMON. 
 
-HKUST graduate.
+HKUST Graduate. 
 
-Mathematician. Developer.
+Major in Mathematics.
+
+A Lifelong Learner.
